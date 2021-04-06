@@ -1,0 +1,13 @@
+F:\Lexicon offline Projects\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.exe
+F:\Lexicon offline Projects\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.deps.json
+F:\Lexicon offline Projects\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.runtimeconfig.json
+F:\Lexicon offline Projects\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.runtimeconfig.dev.json
+F:\Lexicon offline Projects\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.dll
+F:\Lexicon offline Projects\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.pdb
+F:\Lexicon offline Projects\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.csprojAssemblyReference.cache
+F:\Lexicon offline Projects\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.AssemblyInfoInputs.cache
+F:\Lexicon offline Projects\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.AssemblyInfo.cs
+F:\Lexicon offline Projects\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.csproj.CoreCompileInputs.cache
+F:\Lexicon offline Projects\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.dll
+F:\Lexicon offline Projects\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.pdb
+F:\Lexicon offline Projects\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.genruntimeconfig.cache

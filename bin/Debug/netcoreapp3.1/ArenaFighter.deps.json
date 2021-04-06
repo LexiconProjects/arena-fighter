@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArenaFighter/1.0.0": {
+        "runtime": {
+          "ArenaFighter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArenaFighter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
